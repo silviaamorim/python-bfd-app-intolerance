@@ -7,7 +7,7 @@ Nome do Projeto: Food Intolerance
 Equipe
 
 Luciana Ferreira
-Marcia eugenia
+Márcia Eugenia
 Silvia Amorim
 Vanessa Barbosa
 Veldilene Dias
