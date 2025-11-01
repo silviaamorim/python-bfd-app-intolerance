@@ -6,9 +6,9 @@ Fazer o levantamento dos requisitos, diagrama de software, prototipo de telas e 
 Nome do Projeto: Food Intolerance
 Equipe
 
-Luciana Ferreira
-Márcia Eugenia
-Silvia Amorim
-Vanessa Barbosa
-Veldilene Dias
-Wagner andre
+Luciana Ferreira,
+Márcia Eugenia,
+Silvia Amorim,
+Vanessa Barbosa,
+Veldilene Dias,
+Wagner andre.
